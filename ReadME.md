@@ -1,37 +1,65 @@
+<h1 align="center">Hi, I'm Shubham 👋</h1>
+
+<p align="center">
+<b>Software Engineer | Full-Stack Developer | Problem Solver</b>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=450&lines=Software+Engineer+(3%2B+Years);Full+Stack+Developer+(MERN+%2F+TS);Scalable+Systems+%26+APIs;Competitive+Programmer+(C%2B%2B)" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shubham-pandey-a74716199/?isSelfProfile=true" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/shubham3250/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:mr.pshubham@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://main--shubham-portfolio-me.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 💼 **Experience**: Software Engineer with **3+ years of experience** building scalable full-stack web applications, resilient backend architectures, and high-performance user interfaces.
+- 🎓 **Background**: B.Tech in Computer Science from **IIIT Vadodara**.
+- ⚙️ **Core Focus**: High-throughput RESTful APIs, distributed systems, state management, and database optimization.
+- 💡 **Problem Solving**: Strong algorithmic foundation in **C++** with a background in competitive programming.
+- ⚡ **Fun Fact**: Outside of tech, I'm an avid anime enthusiast 🎌 and competitive FPS gamer 🎮.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,git,github,postman,tailwind,linux&perline=8" alt="Tech Stack" />
+</p>
+
+<details>
+<summary><b>📂 Categorized Skills Breakdown</b></summary>
+<br/>
+
+- **Languages:** `Java`, `JavaScript (ES6+)`, `TypeScript`, `HTML5`, `CSS3/Sass`
+- **Frontend:** `React.js`, `Next.js`, `Redux Toolkit`, `Tailwind CSS`
+- **Backend:** `Node.js`, `Express.js`, `REST APIs`, `Microservices`
+- **Databases & Cache:** `MongoDB`, `PostgreSQL`, `Redis`
+- **DevOps & Tooling:** `Docker`, `Git`, `GitHub Actions`, `Postman`, `Linux`
+
+</details>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
 <div align="center">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Sharann Manojkumar"/></picture>
-
-<a href="https://sharann.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
-<a href="https://sharann.dev/Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff"/><img src="https://img.shields.io/badge/RESUME-ffffff?style=flat-square&logo=adobeacrobatreader&logoColor=000000" alt="Resume"/></picture></a>
-<a href="https://linkedin.com/in/sharannm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
-<a href="https://x.com/m_sharann"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/X-ffffff?style=flat-square" alt="X"/></picture></a>
-<a href="mailto:sharannmanojkumar@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square" alt="Email"/></picture></a>
-
+<img src="https://github-stats-extended.vercel.app/api?username=mcash09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="155" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=mcash09&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
 </div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Sharann"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — system map"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Project ecosystem"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="15 projects"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Animated development telemetry"/></picture>
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mcash09&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" />
+</p>
 
-<div align="center">
+---
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="GitHub statistics and repository languages"/></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
-
-</div>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 — the route"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Development timeline"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" alt="Professional experience"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — stack"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
-
-<!-- one responsive picture per visual; no duplicate light/dark rendering -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mcash09&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
