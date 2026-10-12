@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Experience**: Software Engineer with **3+ years of experience** building scalable full-stack web applications, resilient backend architectures, and high-performance user interfaces.
+- 💼 **Experience**: Software Engineer with **4+ years of experience** building scalable full-stack web applications, resilient backend architectures, and high-performance user interfaces.
 - 🎓 **Background**: B.Tech in Computer Science from **IIIT Vadodara**.
 - ⚙️ **Core Focus**: High-throughput RESTful APIs, distributed systems, state management, and database optimization.
 - 💡 **Problem Solving**: Strong algorithmic foundation in **C++** with a background in competitive programming.
