@@ -50,8 +50,8 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=mcash09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="155" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=mcash09&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
+<img src="https://github-stats-extended.vercel.app/api?username=shubham-pandey12/&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="155" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=shubham-pandey12/&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
 </div>
 
 <p align="center">
