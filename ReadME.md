@@ -2,7 +2,6 @@
 <p align="center">
   <b>Software Engineer | Full-Stack Developer | Problem Solver</b>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=450&lines=Software+Engineer+(3%2B+Years);Full+Stack+Developer+(React+%2F+Node.js);Scalable+Web+Applications+%26+APIs;Frontend+Engineering+%26+Problem+Solving" alt="Typing SVG" />
 </p>
